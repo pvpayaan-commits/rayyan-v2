@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pvpayaan-commits.github.io/rayyan-v2/</loc>
+    <loc>https://pvpayaan-commits.github.io/</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -13,19 +13,19 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pvpayaan-commits.github.io/rayyan-portfolio/metro-restaurant/</loc>
+    <loc>https://pvpayaan-commits.github.io/metro-restaurant/</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pvpayaan-commits.github.io/rayyan-portfolio/city-care-clinic/</loc>
+    <loc>https://pvpayaan-commits.github.io/city-care-clinic/</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pvpayaan-commits.github.io/rayyan-portfolio/lumiere-dental/</loc>
+    <loc>https://pvpayaan-commits.github.io/lumiere-dental/</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
